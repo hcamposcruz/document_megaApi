@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\records\\raw\\Documentação\\MegaApiDotnetCore\\src\\MegamanApi.csproj": {}
+    "C:\\Users\\hcamp\\OneDrive\\Documentos\\CursosIA\\Case-Prgramacao\\document_megaApi\\src\\MegamanApi.csproj": {}
   },
   "projects": {
-    "C:\\records\\raw\\Documentação\\MegaApiDotnetCore\\src\\MegamanApi.csproj": {
+    "C:\\Users\\hcamp\\OneDrive\\Documentos\\CursosIA\\Case-Prgramacao\\document_megaApi\\src\\MegamanApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\records\\raw\\Documentação\\MegaApiDotnetCore\\src\\MegamanApi.csproj",
+        "projectUniqueName": "C:\\Users\\hcamp\\OneDrive\\Documentos\\CursosIA\\Case-Prgramacao\\document_megaApi\\src\\MegamanApi.csproj",
         "projectName": "MegamanApi",
-        "projectPath": "C:\\records\\raw\\Documentação\\MegaApiDotnetCore\\src\\MegamanApi.csproj",
-        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\records\\raw\\Documentação\\MegaApiDotnetCore\\src\\obj\\",
+        "projectPath": "C:\\Users\\hcamp\\OneDrive\\Documentos\\CursosIA\\Case-Prgramacao\\document_megaApi\\src\\MegamanApi.csproj",
+        "packagesPath": "C:\\Users\\hcamp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hcamp\\OneDrive\\Documentos\\CursosIA\\Case-Prgramacao\\document_megaApi\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hcamp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -99,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

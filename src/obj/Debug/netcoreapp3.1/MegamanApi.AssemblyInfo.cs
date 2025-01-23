@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MegamanApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4567eec3965f42faeb5517bf62519616f28e06c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f8170117275131c766964631d6e86c39e62d5bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MegamanApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MegamanApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
