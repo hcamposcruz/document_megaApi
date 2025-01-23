@@ -62,15 +62,18 @@
 
 
 
-## Techniques Used
+implementada).
 
-<p align="center">
-  - <b>Entity Framework Core:</b> ORM for data management.<br />
-  - <b>RESTful API Design:</b> Ensures clear and effective communication
-  endpoints.<br />
-  - <b>Dependency Injection:</b> Used throughout to promote loose coupling and
-  enhanced testability.<br />
-</p>
+## Técnicas e Tecnologias Utilizadas
+
+- **.NET Core 3.1**: Framework de desenvolvimento para a criação de aplicações web.
+- **Entity Framework Core**: Biblioteca de mapeamento objeto-relacional (ORM) para comunicação com o banco de dados.
+  - **Microsoft.EntityFrameworkCore.Design**: Ferramentas de design para EF Core.
+  - **Microsoft.EntityFrameworkCore.SqlServer**: Provedor de banco de dados SQL Server para EF Core.
+- **Newtonsoft.Json**: Biblioteca popular para manipulação e serialização de dados JSON.
+- **ASP.NET Core Web API**: Framework para construção de APIs RESTful.
+- **Injeção de Dependência**: Técnica para melhorar a modularidade e facilitar os testes.
+- **Arquitetura REST**: Padrão arquitetural para construção de serviços 
 
 ## Dependencies
 
